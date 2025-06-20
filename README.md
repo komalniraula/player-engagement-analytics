@@ -2,7 +2,7 @@
 
 This project focuses on understanding and predicting player engagement in online games. It combines preprocessing, feature engineering, model training, evaluation, and explainable AI tools to derive actionable insights from gameplay data.
 
-📘 See the full analysis in the Jupyter Notebook: [`player_engagement_analysis.ipynb`](player_engagement_analysis.ipynb)
+📘 See the full analysis in the Jupyter Notebook: [understanding-and-predicting-player-engagement-in-online-games.ipynb](understanding-and-predicting-player-engagement-in-online-games.ipynb)
 
 ---
 
