@@ -4,7 +4,7 @@ This project focuses on understanding and predicting player engagement in online
 
 📘 See the full analysis in the Jupyter Notebook: [understanding-and-predicting-player-engagement-in-online-games.ipynb](understanding-and-predicting-player-engagement-in-online-games.ipynb)
 
----
+----
 
 ## 🔍 Objective
 
